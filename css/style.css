@@ -236,9 +236,22 @@ footer p{
 
 #logo-scar{
 	padding: 3px;
+	align-items: center;
+	margin-bottom: 2px;
 }
 #logo-scar img{
 	display:block;
 	margin:auto;
 	padding: 3px;
  }
+
+#map-view{
+	width: 100%;
+	height: 300px;
+}
+
+#map{
+	background-color:#F1E9DB;
+	margin-bottom: 30px;
+	padding: 30px;
+}
